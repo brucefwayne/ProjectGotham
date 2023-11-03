@@ -23,3 +23,9 @@ exception_dict = {'Others': [{'name': 'MRN R15.1.0 Distribution Hub', 'owner': '
 
 testernamelistsorted: ['AlparWonerth', 'AnettRau', 'AnnetteOpitz', 'ArunaSanthanam', 'BarbaraKronmueller', 'BenBurmeister', 'ChinmayShah', 'EricSchnurr', 'FlorianBrenner', 'GunasekaranLoganathan', 'HendrikMewissen', 'KarthickJayachandran', 'KarthickJayachandran', 'KarthickJayachandran', 'LaetitiaBoetselaars', 'ManfredBohnet', 'MartinEisele', 'MatthiasPannwitz', 'MosesTonui', 'NagarampalliKalyan', 'NagarampalliKalyan', 'NevvathaRegunathan', 'NoOwner', 'OvidiuBoldea', 'PavanPalreddygari', 'PavanPalreddygari', 'PavanPalreddygari', 'RobinMai', 'SharathK', 'SharathMuthu', 'SimoneKlasmeier', 'SrividhyaRamakrishnan', 'ThanushaKoparthy', 'ThanushaKoparthy', 'UnniRajanarayanan', 'VijayalakshmiR', 'vpadmana']
 
+
+
+BUILD_COMB_LIST_duplicates_removed: ['GGG28-02T 1830PSS-60.26-50', 'GGG28-02T 1830PSS-60.25-50', 'GGG28-02T 1830PSS-60.24-50', 'GGG28-02T 1830PSS-60.4-50', 'GGG28-02T 1830PSS-60.23-50', 'GGG28-02T 1830PSS-60.22-50', 'GGG28-02S 1830PSS-60.20-50', 'GGG28-02T 1830PSS-60.20-50']
+
+
+
